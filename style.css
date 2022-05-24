@@ -2,13 +2,23 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .nav-links {
     display: flex;
     list-style: none;
+    align-items: center;
 }
 .nav-item {
     padding: 15px;
 }
 
+
+.btn-primary {
+    background-color: orange;
+    border: none;
+    color: black;
+    padding: 15px;
+}
