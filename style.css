@@ -25,10 +25,14 @@
 
 .container {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    
+}
+.profile {
+    display: flex;
 }
 
-.info {
-    width: 60%;
-}
 
+nav {
+    margin-bottom: 35px;
+}
