@@ -22,3 +22,13 @@
     color: black;
     padding: 15px;
 }
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.info {
+    width: 60%;
+}
+
